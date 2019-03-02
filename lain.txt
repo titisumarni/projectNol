@@ -1,0 +1,5 @@
+<p>
+          <a href="#" class="mr-2 mb-2">Twitter</a>
+          <a href="#" class="mr-2 mb-2">Facebook</a>
+          <a href="#" class="mr-2 mb-2">Instagram</a> 
+       </p>
